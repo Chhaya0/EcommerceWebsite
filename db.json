@@ -1,19 +1,60 @@
 {
-  "posts": [
+  "seller": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "password": "anil",
+      "id": 1
+    },
+    {
+      "name": "John",
+      "email": "doe@gmail.com",
+      "password": "doe",
+      "id": 2
+    },
+    {
+      "name": "abc ",
+      "email": "123",
+      "password": "abc123",
+      "id": 3
     }
   ],
-  "comments": [
+  "products": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "samsung m 40",
+      "price": "15000",
+      "color": "black",
+      "category": "mobile",
+      "description": "samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 1
+    },
+    {
+      "name": "apple",
+      "price": "100000",
+      "color": "mobile ",
+      "category": "red",
+      "description": "apple ",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 2
+    },
+    {
+      "name": "laptop",
+      "price": "45000",
+      "color": "silver",
+      "category": "pc",
+      "description": "pc",
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2022/10/laptopstopicpage-2048px-2027.jpg?auto=webp&quality=75&width=980&dpr=1.5",
+      "id": 3
+    },
+    {
+      "name": "Earrings ",
+      "price": "250",
+      "color": "red",
+      "category": "jwellery ",
+      "description": "earrings red ",
+      "image": "https://cfs3.monicavinader.com/images/pdp-small-medium/14347290-gp-ea-swer-gro-f1.jpg",
+      "id": 4
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

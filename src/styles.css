@@ -20,7 +20,7 @@ body{
     height: 35px;
     margin-bottom: 20px;
     padding-left: 10px;
-    color: blueviolet;
+    color: black;
     border: 1px solid blueviolet
 }
 .form-button
@@ -28,4 +28,8 @@ body{
     height: 35px;
     border: 1px solid blueviolet;
     cursor: pointer;
+}
+.p-message
+{
+    color: green;
 }

@@ -1,7 +1,27 @@
-.sign-up h1{
+.sign-up h1,.login{
     text-align: center;
     color: blueviolet;
     margin-bottom: 50px;
     margin-top: 80px;
 
+}
+.auth-toggle-link
+{
+    margin-top:20px;
+    color: blueviolet;
+    font-size: 14px;
+    text-align: center;
+}
+.error-p
+{
+    color: white;
+    background-color: indianred;
+    display: inline-flex;
+    font-size: 20px;
+    padding: 10px;
+    
+}
+.errop-p-no
+{
+    display: none;
 }
