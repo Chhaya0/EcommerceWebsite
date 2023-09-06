@@ -27,3 +27,10 @@ table td , table th{
 .adjust-update-link{
     margin-left: 10px;
 }
+.delete{
+    padding: 10px;
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid white;
+    box-shadow: 1px 1px 3px blueviolet;
+}

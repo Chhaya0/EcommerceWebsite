@@ -21,15 +21,6 @@
   ],
   "products": [
     {
-      "name": "samsung m 40",
-      "price": "15000",
-      "color": "black",
-      "category": "mobile",
-      "description": "samsung product",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
-      "id": 1
-    },
-    {
       "name": "apple",
       "price": "100000",
       "color": "mobile ",
@@ -55,6 +46,24 @@
       "description": "earrings red ",
       "image": "https://cfs3.monicavinader.com/images/pdp-small-medium/14347290-gp-ea-swer-gro-f1.jpg",
       "id": 4
+    },
+    {
+      "name": "Moto ",
+      "price": "12000",
+      "color": "blue",
+      "category": "Phone",
+      "description": "Phone",
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2022/12/Motorola-Moto-E13-Green.jpg",
+      "id": 6
+    },
+    {
+      "name": "Nokia ",
+      "price": "5000",
+      "color": "red",
+      "category": "phone",
+      "description": "phone",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 8
     }
   ]
 }
