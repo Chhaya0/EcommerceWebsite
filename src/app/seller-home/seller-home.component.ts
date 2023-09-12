@@ -10,7 +10,7 @@ import { ProductService } from '../services/product.service';
 })
 export class SellerHomeComponent implements OnInit {
   productList:undefined | product[];
-  // icon=faTrash;
+  // deleteIcon=faTrash;
   deleteMessage='';
   constructor(private product:ProductService) { }
 

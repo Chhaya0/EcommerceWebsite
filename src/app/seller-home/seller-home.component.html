@@ -22,9 +22,9 @@
           <td>{{ item.category }}</td>
           <td>{{ item.description }}</td>
           <td>
-            <!-- <fa-icon [icon]="icon"></fa-icon> -->
+            <!-- <fa-icon [icon]="deleteIcon"></fa-icon> -->
             <button (click)="deleteProduct(item.id)" class="delete">Delete</button>
-            <!-- <a class="adjust-update-link" routerLink="/seller-update-product/{{item.id}}"><fa-icon  [icon]="iconEdit"></fa-icon></a> -->
+            <a class="adjust-update-link" routerLink="/seller-update-product/{{item.id}}" class="edit">Edit</a>
             
           </td>
         </tr>
